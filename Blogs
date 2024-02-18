@@ -1,1 +1,3 @@
 ArgoCD Installation steps on Cluster  --> https://blog.kubekode.org/getting-started-with-argocd
+
+to edit the service ----------->         kubectl edit svc argocd-server -n argocd
